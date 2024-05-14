@@ -30,6 +30,12 @@ $ pnpm start:dev
 
 ```
 
+## 🧾 Documentation / Swagger
+
+```
+http://localhost:3000/documentation
+```
+
 ## ℹ️ Available routes
 
 ```bash
